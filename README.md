@@ -1,4 +1,5 @@
 # NLP-Identifying-Emotions-Research_Submission
+These files belong to "LREC Conference - 2022".
 This repository contains files for NLP research project- "Identifying Emotions for Code Mixed-Hindi-English Tweets". 
 There is no publicly good quality data and pre-trained models for Code Mixed Hindi–English data, also it is expensive to collect, pre-process and run various machine and deep learning models. How efficiently can machine and deep learning models predict emotions from Code Mixed Hindi–English tweets? -> This is my MSc. Data Analytics - Thesis
 
