@@ -1,5 +1,5 @@
 # NLP-Identifying-Emotions-Research_Submission
-These files belong to "NLDB Conference - 2022".
+These files belong to "LREC Conference and Workshop - 2022".
 
 
 This repository contains files for NLP research project- "Identifying Emotions for Code Mixed-Hindi-English Tweets". 
