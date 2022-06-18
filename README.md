@@ -1,6 +1,7 @@
 # NLP-Identifying-Emotions-Research_Submission
-These files belong to "LREC Conference and Workshop - 2022".
+"LREC Conference and WILDRE6 - 2022 Workshop"
 
+Paper Link: http://www.lrec-conf.org/proceedings/lrec2022/workshops/WILDRE6/pdf/2022.wildre6-1.7.pdf
 
 This repository contains files for NLP research project- "Identifying Emotions for Code Mixed-Hindi-English Tweets". 
 There is no publicly good quality data and pre-trained models for Code Mixed Hindi–English data, also it is expensive to collect, pre-process and run various machine and deep learning models. How efficiently can machine and deep learning models predict emotions from Code Mixed Hindi–English tweets? -> This is my MSc. Data Analytics - Thesis
@@ -16,8 +17,8 @@ Steps:
 7. Implemented supervised deep learning models: LSTM and BERT with neural networks.
 8. Evaluated Results.
 
-
-Project Report: I Will be uploading the project Report in 'Feb - 2022' because right now I have submitted the paper and if I upload it here, there may be a chance of 'Plagiarism'.
+LREC 2022: https://lrec2022.lrec-conf.org/en/
+Workshop: https://www.softconf.com/lrec2022/WILDRE-6/
 
 Note: I'm uploading only Tweet's ID as a dataset because of Twitter Policy, which says I can't share data publically.
 
